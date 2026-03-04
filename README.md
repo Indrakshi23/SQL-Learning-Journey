@@ -1,6 +1,8 @@
 # SQL-Learning-Journey
 Documenting my SQL learning journey .
 
+![Snake animation](https://github.com/Indrakshi23/SQL-Learning-Journey/blob/output/github-snake.svg)
+
 # Hi, I'm Indrakshi! 👋
 
 ### 📊 SQL & Data Engineering Enthusiast 
