@@ -1,1 +1,10 @@
 -- TOPIC: Basic Data Retrieval & Table Structure 
+
+This folder contains my initial steps into SQL. 
+
+### Key Concepts Covered:
+* *DDL:* Creating tables and defining data types.
+* *DML:* Inserting records.
+* *DQL:* Basic filtering with WHERE, AND, and OR.
+
+
