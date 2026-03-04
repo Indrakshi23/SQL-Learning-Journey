@@ -8,3 +8,47 @@ This folder contains my initial steps into SQL.
 * *DQL:* Basic filtering with WHERE, AND, and OR.
 
 
+Lets Start !!!
+
+<SECTION 1> -- INTRODUCTION :
+
+> * *SQL:* 
+--Stands for Structured QUery Language. 
+  It is a language for a database; companies like IBM have DB2, Oracle have MySQL, and Microsoft has SQL Server or MS Server. 
+  It interacts with Relational Database Management System.
+  It interacts with the database. 
+  It is used to perform CRUD operations - Create, Read, Update, Delete.
+
+> *Why SQL is important?* 
+--SQL is widely popular and influential because of the following reasons :
+          a> SQL allows the IT person to describe and access data in RDBMS.
+          b> SQL allows you to work with other languages like Java, C, Python through SQL modules, libraries, and different connectors. 
+          c> SQL lets you connect with additional tables and set permisiions, procedures, and views.
+
+> *SEQUEL OR SQL?*
+--SEQUEL invented by IBM. It stands for structured english query language. 
+  Later, it was named as SQL.
+
+*What is DATA?* 
+--Collection of facts, numbers, words or anything related including pictures, video, images etc.
+
+> *What is BASE?*
+--It is like a system, hub, foundation or central location. 
+
+> *What is DATABASE?*
+--In simple words, it is a collection of data in a format that can be easily accessible.
+
+> *What is DATABASE MANAGEMENT SYSTEM?* 
+--A software application used to manage our Database is called as Database Management System.
+
+> *How Database works?* 
+--In simple words, user cannot directly access database, they use DBMS as a medium to connect to the database. Then, the database returns answers. We use SQL for DBMS to access Database.
+
+> *Types of DATABASE ?*
+--a> Relational Database  b>Non-Relational Database 
+  a>Relational Database - Data stored in tables. 
+                          We use SQL to work with relational DBMS. That is why we called this as Relational Database Management System (RDBMS).
+                          Example - MySQL, ORACLE SQL SERVER, POSTGRES, MICROSOFT SQL SERVER 
+  b>Non-Relational Database - Data not stored in tables. 
+                              They can't understand SQL.
+                              Example - MongoDB
