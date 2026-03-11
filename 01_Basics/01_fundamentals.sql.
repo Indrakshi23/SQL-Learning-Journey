@@ -50,3 +50,20 @@ Lets Start !!!
   b>Non-Relational Database - Data not stored in tables. 
                               They can't understand SQL.
                               Example - MongoDB
+
+> *DATABASE STRUCTURE ?*
+--Under database, there are numerous number of tables. tables are inter-related. we store inter-related data in the form of tables.
+
+> *What is TABLE? *
+--We store inter-related data in the form of tables.
+  Inside table there are various number of columns and rows.
+  Tables is a combination of rows and columns.
+  Through columns we can say the structure or schema of the table.
+  Basically, columns will tell what infos are there inside the table.
+
+> * CREATING FIRST DATABASE - *
+-- a> To create a db - CREATE DATABASE db_name; 
+-- b> To drop or a db - DROP DATABASE db_name;
+-- c> To declare a db we will be using -  USE db_name;
+
+
