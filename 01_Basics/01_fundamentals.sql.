@@ -69,4 +69,7 @@ Lets Start !!!
 > * SELECT DISTINCT - *
 --The SELECT DISTINCT statement is used to return only distinct (unique) values.
   [SELECT DISTINCT col_name FROM Table_name ;]
+--When we will use COUNT with DISTINCT, it will give us the count of the distict value.
+  [ SELECT COUNT(DISTINCT col_name) FROM table_name;
+
 
