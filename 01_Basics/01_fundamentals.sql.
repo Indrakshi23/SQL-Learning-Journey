@@ -66,4 +66,7 @@ Lets Start !!!
 -- b> To drop or a db - DROP DATABASE db_name;
 -- c> To declare a db we will be using -  USE db_name;
 
+> * SELECT DISTINCT - *
+--The SELECT DISTINCT statement is used to return only distinct (unique) values.
+  [SELECT DISTINCT col_name FROM Table_name ;]
 
